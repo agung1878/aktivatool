@@ -1,0 +1,262 @@
+
+---Upload files---
+Widget file was not uploaded. Error: Sorry, you are not allowed to upload this file type.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/aktivatool
+Data file = C:\xampp\htdocs\aktivatool/wp-content/uploads/2024/08/content.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-category Development
+[WARNING] Failed to import project-category Fashion
+[WARNING] Failed to import project-category Men
+[WARNING] Failed to import project-category Women
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "1-1" (Media)
+[ERROR] Failed to import "2" (Media)
+[ERROR] Failed to import "2-2" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "3-3" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "4-4" (Media)
+[ERROR] Failed to import "5" (Media)
+[ERROR] Failed to import "5-5" (Media)
+[ERROR] Failed to import "6" (Media)
+[ERROR] Failed to import "6-6" (Media)
+[ERROR] Failed to import "7" (Media)
+[ERROR] Failed to import "7-7" (Media)
+[ERROR] Failed to import "8" (Media)
+[ERROR] Failed to import "9" (Media)
+[ERROR] Failed to import "10" (Media)
+[ERROR] Failed to import "10-10" (Media)
+[ERROR] Failed to import "11" (Media)
+[ERROR] Failed to import "11-11" (Media)
+[ERROR] Failed to import "12" (Media)
+[ERROR] Failed to import "logo" (Media)
+[ERROR] Failed to import "14" (Media)
+[ERROR] Failed to import "14-14" (Media)
+[ERROR] Failed to import "15" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-category Development
+[WARNING] Failed to import project-category Fashion
+[WARNING] Failed to import project-category Men
+[WARNING] Failed to import project-category Women
+[ERROR] Failed to import "16" (Media)
+[ERROR] Failed to import "favi-icon" (Media)
+[ERROR] Failed to import "cropped-favi-icon.png" (Media)
+[ERROR] Failed to import "banner1_homess" (Media)
+[ERROR] Failed to import "homess_slide_1" (Media)
+[ERROR] Failed to import "homess_slide_2" (Media)
+[ERROR] Failed to import "homess_slide_3" (Media)
+[ERROR] Failed to import "free-shipping" (Media)
+[ERROR] Failed to import "money-return" (Media)
+[ERROR] Failed to import "support" (Media)
+[ERROR] Failed to import "12-12" (Media)
+[ERROR] Failed to import "13" (Media)
+[ERROR] Failed to import "17" (Media)
+[ERROR] Failed to import "17-17" (Media)
+[ERROR] Failed to import "19" (Media)
+[ERROR] Failed to import "20" (Media)
+[ERROR] Failed to import "21" (Media)
+[ERROR] Failed to import "18" (Media)
+[ERROR] Failed to import "34" (Media)
+[ERROR] Failed to import "16-16" (Media)
+[ERROR] Failed to import "22" (Media)
+[ERROR] Failed to import "23" (Media)
+[ERROR] Failed to import "24" (Media)
+[ERROR] Failed to import "25" (Media)
+[ERROR] Failed to import "27" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-category Development
+[WARNING] Failed to import project-category Fashion
+[WARNING] Failed to import project-category Men
+[WARNING] Failed to import project-category Women
+[ERROR] Failed to import "28" (Media)
+[ERROR] Failed to import "29" (Media)
+[ERROR] Failed to import "30" (Media)
+[ERROR] Failed to import "31" (Media)
+[ERROR] Failed to import "32" (Media)
+[ERROR] Failed to import "33" (Media)
+[ERROR] Failed to import "35" (Media)
+[ERROR] Failed to import "banner1_homess" (Media)
+[ERROR] Failed to import "logo-white" (Media)
+[ERROR] Failed to import "homess_slide_3" (Media)
+[ERROR] Failed to import "newsletter" (Media)
+[ERROR] Failed to import "logo1" (Media)
+[ERROR] Failed to import "chair" (Media)
+[ERROR] Failed to import "house-work" (Media)
+[ERROR] Failed to import "lighting" (Media)
+[ERROR] Failed to import "home2-slider" (Media)
+[ERROR] Failed to import "home2-slider2" (Media)
+[ERROR] Failed to import "home2-slider3" (Media)
+[ERROR] Failed to import "payment" (Media)
+[ERROR] Failed to import "background_menu" (Media)
+[ERROR] Failed to import "contact-us-icon" (Media)
+[ERROR] Failed to import "blog-detail" (Media)
+[ERROR] Failed to import "banner1-about-us" (Media)
+[ERROR] Failed to import "banner2-about-us" (Media)
+[ERROR] Failed to import "background-slider3" (Media)
+[ERROR] Failed to import "banner1-about-us" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-category Development
+[WARNING] Failed to import project-category Fashion
+[WARNING] Failed to import project-category Men
+[WARNING] Failed to import project-category Women
+[ERROR] Failed to import "slider-home-page3" (Media)
+[ERROR] Failed to import "background-tesnomial" (Media)
+[ERROR] Failed to import "avatar-admin" (Media)
+[ERROR] Failed to import "404" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "2" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+[ERROR] Failed to import "6" (Media)
+[ERROR] Failed to import "7" (Media)
+[ERROR] Failed to import "8" (Media)
+[ERROR] Failed to import "9" (Media)
+[ERROR] Failed to import "10" (Media)
+[ERROR] Failed to import "11" (Media)
+[ERROR] Failed to import "12" (Media)
+[ERROR] Failed to import "13" (Media)
+[ERROR] Failed to import "14" (Media)
+[ERROR] Failed to import "cropped-logo.png" (Media)
+[ERROR] Failed to import "favi" (Media)
+[ERROR] Failed to import "cropped-favi.png" (Media)
+[ERROR] Failed to import "logo" (Media)
+[ERROR] Failed to import "blog-detail1" (Media)
+[ERROR] Failed to import "slide3-home1-min" (Media)
+[ERROR] Failed to import "logo-slide-h1" (Media)
+[ERROR] Failed to import "1" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-category Development
+[WARNING] Failed to import project-category Fashion
+[WARNING] Failed to import project-category Men
+[WARNING] Failed to import project-category Women
+[ERROR] Failed to import "2" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+[ERROR] Failed to import "6" (Media)
+[ERROR] Failed to import "7" (Media)
+[ERROR] Failed to import "8" (Media)
+[ERROR] Failed to import "9" (Media)
+[ERROR] Failed to import "10" (Media)
+[ERROR] Failed to import "cate2" (Media)
+[ERROR] Failed to import "cate3" (Media)
+[ERROR] Failed to import "cate5" (Media)
+[ERROR] Failed to import "cate31" (Media)
+[ERROR] Failed to import "cate32" (Media)
+[ERROR] Failed to import "banner-newarrivals" (Media)
+[ERROR] Failed to import "banner-bestseller." (Media)
+[ERROR] Failed to import "banner-content6" (Media)
+[ERROR] Failed to import "sliderhome6_1" (Media)
+[ERROR] Failed to import "slider6_2" (Media)
+[ERROR] Failed to import "slider6_3" (Media)
+[ERROR] Failed to import "slider-home-2" (Media)
+[ERROR] Failed to import "slider-home-2-2" (Media)
+[ERROR] Failed to import "logo (1)" (Media)
+[ERROR] Failed to import "banner-abou" (Media)
+[ERROR] Failed to import "homeslider6" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-category Development
+[WARNING] Failed to import project-category Fashion
+[WARNING] Failed to import project-category Men
+[WARNING] Failed to import project-category Women
+[ERROR] Failed to import "cleaning-tools" (Media)
+[ERROR] Failed to import "sphere-light" (Media)
+[ERROR] Failed to import "windsor-chair" (Media)
+[ERROR] Failed to import "coffeepots-teapots" (Media)
+[ERROR] Failed to import "teakettles" (Media)
+[ERROR] Failed to import "cate4" (Media)
+[ERROR] Failed to import "cate5" (Media)
+[ERROR] Failed to import "logo" (Media)
+[ERROR] Failed to import "slider-home-7-1" (Media)
+[ERROR] Failed to import "slider-home-7-2" (Media)
+[ERROR] Failed to import "slider-home-7-3" (Media)
+[ERROR] Failed to import "banner-top-h7-1" (Media)
+[ERROR] Failed to import "banner-top-h7-2" (Media)
+[ERROR] Failed to import "banner-top-h7-3" (Media)
+[ERROR] Failed to import "banner-midle-7-1" (Media)
+[ERROR] Failed to import "banner-midle-7-2" (Media)
+[ERROR] Failed to import "banner-top-h7-4" (Media)
+[ERROR] Failed to import "logo2" (Media)
+[ERROR] Failed to import "slider-home-8-1" (Media)
+[ERROR] Failed to import "slider-home-8-2" (Media)
+[ERROR] Failed to import "slider-home-8-3" (Media)
+[ERROR] Failed to import "payment1" (Media)
+[ERROR] Failed to import "slider-home-9-1" (Media)
+[ERROR] Failed to import "slider-home-9--2" (Media)
+[ERROR] Failed to import "slider-home-9-3" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import project-category Design
+[WARNING] Failed to import project-category Development
+[WARNING] Failed to import project-category Fashion
+[WARNING] Failed to import project-category Men
+[WARNING] Failed to import project-category Women
+[ERROR] Failed to import "banner-10" (Media)
+[ERROR] Failed to import "banner-10-1" (Media)
+[ERROR] Failed to import "slider101" (Media)
+[ERROR] Failed to import "slider102" (Media)
+[ERROR] Failed to import "slider103" (Media)
+[ERROR] Failed to import "banner-home11-1" (Media)
+[ERROR] Failed to import "banner-home11-2" (Media)
+[ERROR] Failed to import "banner-home11-3" (Media)
+[ERROR] Failed to import "banner-home11-4" (Media)
+[ERROR] Failed to import "home11-slider" (Media)
+[ERROR] Failed to import "home11-slider1" (Media)
+[ERROR] Failed to import "home11-slider2" (Media)
+[ERROR] Failed to import "categroies-h12-1" (Media)
+[ERROR] Failed to import "categroies-h12-2" (Media)
+[ERROR] Failed to import "categroies-h12-3" (Media)
+[ERROR] Failed to import "categroies-h12-4" (Media)
+[ERROR] Failed to import "categroies-h12-5" (Media)
+[ERROR] Failed to import "categroies-h12-6" (Media)
+[ERROR] Failed to import "icon-home12" (Media)
+[ERROR] Failed to import "banner-home-12" (Media)
+[ERROR] Failed to import "banner-home-12-1" (Media)
+[ERROR] Failed to import "slider-home12" (Media)
+[ERROR] Failed to import "imge-slider-12" (Media)
+[ERROR] Failed to import "bgslider12" (Media)
+
+
+---ocdi/after_import---
+
